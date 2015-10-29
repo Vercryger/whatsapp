@@ -2,5 +2,6 @@ angular
   .module('whatsapp', [
     'ionic',
     'angular-meteor',
-    'angularMoment'
+    'angularMoment',
+    'ngLetterAvatar'
   ]);
